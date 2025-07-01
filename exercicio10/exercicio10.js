@@ -6,15 +6,18 @@ let contador = 1;
 
 while (contador <= 10){
 
-mostraHTML.innerHTML += `${contador}`;
+mostraHTML.innerHTML += `${contador}; &#128073; `
 contador++;
 } 
 
-function parOuImpar() {
-let
+if(par == 0){
+
+    mostraHTML.innerHTML `<mark>${par}</mark>`
+
 
 
 
 }
+
 
 }
